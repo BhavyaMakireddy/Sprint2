@@ -1,0 +1,11 @@
+{
+    "driverId":1,
+    "userId":1,
+    "fromLocation":"UB city mall",
+    "toLocation":"Whitefield",
+    "fromDateTime":"02-02-2023 12:23:45",
+    "toDateTime":"02-02-2023 01:23:45",
+    "status":"true",
+    "distanceInKm":5,
+    "bill":70.0
+}

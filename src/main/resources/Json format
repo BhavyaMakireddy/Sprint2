@@ -1,0 +1,9 @@
+localhost:2004/api/tripbooking/register/13/driver/7
+
+{
+    "fromLocation":"Brookfield",
+    "toLocation":"Whitefield",
+    "status":"true",
+    "distanceInKm":2,
+    "bill":70.0
+}
